@@ -1,6 +1,9 @@
 
-### 18-12-2021
+### Date Created 
 18-12-2021
+
+## *Date Modified (Refactory) 
+20-12-2021
 
 ### Project Title: Bikeshare Data Analysis
 
@@ -24,5 +27,6 @@ Then i used dictionary to be able to access the files such as *City_data ðŸŒ†ðŸ
 Projec 2 csv files, gitignore, bikeshare.py
 
 ### Credits
+Wordpress check link >> https://wordpress.com/support/markdown-quick-reference/ 
 
 
