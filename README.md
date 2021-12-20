@@ -1,6 +1,9 @@
 
-### 18-12-2021
+### Date Created 
 18-12-2021
+
+## *Date Modified (Refactory) 
+20-12-2021
 
 ### Project Title: Bikeshare Data Analysis
 
@@ -12,5 +15,6 @@ This Project looks into The Data Analysis project Bikeshare
 Projec 2 csv files, gitignore, bikeshare.py
 
 ### Credits
+Wordpress check link >> https://wordpress.com/support/markdown-quick-reference/ 
 
 
