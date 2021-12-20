@@ -3,6 +3,10 @@ import pandas as pd
 import numpy as np
 from scipy import stats
 
+#Load the Data into the functions by placing them using a dictionary
+##Date of Creation: 6th December 2021
+### Modified 20th December 2021
+
 CITY_DATA = { 'chicago': 'chicago.csv',
               'new york city': 'new_york_city.csv',
               'washington': 'washington.csv' }
