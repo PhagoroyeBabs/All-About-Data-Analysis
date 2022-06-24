@@ -40,6 +40,6 @@ The data used in this project is gotten from [kaggle](https://www.kaggle.com/dat
 > # Code Editor
 > You can use any editor of your choice but i prefer using VScode.
 
-Read my story on this project on [medium](https://medium.com/@Babsfagoroye)[![View on Medium](https://img.shields.io/badge/Medium-View%20on%20Medium-red?logo=medium)](https://medium.com/@Babsfagoroye)
+Read my story on this project on [medium](https://medium.com/@Babsfagoroye/exploratory-data-analysis-book-recommendation-f411d7f3f70c)[![View on Medium](https://img.shields.io/badge/Medium-View%20on%20Medium-red?logo=medium)](https://medium.com/@Babsfagoroye/exploratory-data-analysis-book-recommendation-f411d7f3f70c)
 
 
