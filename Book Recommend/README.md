@@ -35,10 +35,11 @@ The following modules were installed locally into the notebook to give the neede
 
 # Data Used 
 
-The data used in this project is gotten from [kaggle](https://www.kaggle.com/datasets/arashnic/book-recommendation-dataset). However i have created a folder of the dataset in my [github repository][https://github.com/PhagoroyeBabs/data] 
+The data used in this project is gotten from [kaggle](https://www.kaggle.com/datasets/arashnic/book-recommendation-dataset). However i have created a folder of the dataset in my [github repository](https://github.com/PhagoroyeBabs/data)
 
 > # Code Editor
 > You can use any editor of your choice but i prefer using VScode.
 
-Read my story on this project on [medium](https://medium.com/@Babsfagoroye)[![View on Medium](https://img.shields.io/badge/Medium-View%20on%20Medium-red?logo=medium)](https://medium.com/@Babsfagoroye)[![Daily Data Science Tips]
+Read my story on this project on [medium](https://medium.com/@Babsfagoroye)[![View on Medium](https://img.shields.io/badge/Medium-View%20on%20Medium-red?logo=medium)](https://medium.com/@Babsfagoroye)
+
 
